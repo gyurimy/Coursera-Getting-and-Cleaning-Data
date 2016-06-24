@@ -1,7 +1,7 @@
 #Coursera - Getting and Cleaning Data
 by Gyurim Lee
 
-###Review criteria
+####Review criteria
 -----
 1. The submitted data set is tidy.
 2. The Github repo contains the required scripts.
