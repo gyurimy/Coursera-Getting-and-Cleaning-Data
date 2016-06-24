@@ -11,7 +11,10 @@ by Gyurim Lee
 
 ####Peer Graded Assignment: Getting and Cleaning Data Course Project
 -----
-Here are the data for the project:
+A full description of the data:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 You should create one R script called run_analysis.R that does the following.
