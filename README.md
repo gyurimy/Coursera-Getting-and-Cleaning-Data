@@ -9,7 +9,7 @@ by Gyurim Lee
 4. The README that explains the analysis files is clear and understandable.
 5. The work submitted for this project is the work of the student who submitted it.
 
-###Project Assignment
+####Project Assignment
 -----
 You should create one R script called run_analysis.R that does the following.
 
@@ -22,10 +22,9 @@ You should create one R script called run_analysis.R that does the following.
 
 ####Peer Graded Assignment: Getting and Cleaning Data Course Project
 -----
-A full description of the data:
+* A full description of the data:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-The data for the project:
+* The data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 You should create one R script called run_analysis.R that does the following.
