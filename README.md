@@ -24,5 +24,8 @@ You should create one R script called run_analysis.R that does the following.
 
 ###Steps
 -----
-1. download the "run_analysis.R" file
-2. Unzip the raw data
+1. Unzip the data for the project
+2. Download the "run_analysis.R" file
+3. Change current working directory to the "UCI HAR Dataset" folder
+4. Run "run_analysis.R" file
+5. Confirm the result data set in the current directory 
