@@ -28,4 +28,4 @@ You should create one R script called run_analysis.R that does the following.
 2. Download the "run_analysis.R" file
 3. Change current working directory to the "UCI HAR Dataset" folder
 4. Run "run_analysis.R" file
-5. Confirm the result data set in the current directory 
+5. Confirm the result data set in the current directory (result_cleaning_dataset.txt, result_cleaning_dataset.csv)
