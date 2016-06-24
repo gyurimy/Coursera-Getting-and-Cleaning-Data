@@ -1,5 +1,5 @@
-#Peer Graded Assignment: Getting and Cleaning Data Course Project
-##Code Book
+#Peer Graded Assignment: 
+Getting and Cleaning Data Course Project
 
 ###The Original Raw Data (Human Activity Recognition Using Smartphones Data Set)
 * The data for the project: 
@@ -12,11 +12,6 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-Check the README.txt file for further details about this dataset.
- 
-###Explanation of Raw Data
-Their data was obtained from carrying out experiments with 30 participants performing six different activities while wearing a smartphone. The data was randomly split into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. Using the phone's embedded accelerometer and gyroscope, they captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
-
 * subject_test.txt: contains the participant number (1-30) for the test data
 * y_test.txt: contains the activity number (1-6) for the test data
 * x_test.txt: contains the vector information (1-531) for the test data
@@ -24,7 +19,15 @@ Their data was obtained from carrying out experiments with 30 participants perfo
 * y_training.txt: contains the activity number (1-6) for the training data
 * x_trainingt.txt: contains the vector information (1-531) for the training data
 * features.txt: contains the descriptive names of activities
-  
+ 
+###Source
+Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
+1 - Smartlab - Non-Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy. 
+2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
+Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08800), Spain
+activityrecognition '@' smartlab.ws
+ 
 ###Attribute Information
 For each record in the dataset it is provided: 
 * Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. 
